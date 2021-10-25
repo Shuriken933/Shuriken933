@@ -1,9 +1,9 @@
 ### Hi there, I'm Eros
 
 ## I'm a web developer and computer engineering student 
-- I'm focussed on web programing
-- I'm studying at university (Roma Tre)
-- I'm programming a framework [Flexscape]
+- 💻 I'm focussed on web programming
+- 👨‍🎓 I'm studying at university (Roma Tre)
+- 🖼️ I'm programming a framework [Flexscape]
 
 <br />
 
