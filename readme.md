@@ -5,8 +5,6 @@
 - 👨‍🎓 I'm studying at university (Roma Tre)
 - 🖼️ I'm programming a framework [Flexscape]
 
-<br />
-
 ## Connect with me
 [<img align="left" alt="shuriken93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shuriken93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
