@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact)](https://github.com/Shuriken933/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact&bg_color=000)](https://github.com/Shuriken933/github-readme-stats)
 
 
 <!-- BLOG-POST-LIST:START -->
