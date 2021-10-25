@@ -29,13 +29,14 @@
 
 <br />
 
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact&theme=dark)](https://github.com/Shuriken933/github-readme-stats)
 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-##
+###
 ![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=dark)
 
 <!-- ### Latest Blog Posts -->
