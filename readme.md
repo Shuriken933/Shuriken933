@@ -10,7 +10,7 @@
 [<img align="left" alt="shuriken93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="shuriken93 | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
-### Latest Blog Posts
+<!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
