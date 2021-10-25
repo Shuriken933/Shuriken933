@@ -27,15 +27,16 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact&bg_color=000)](https://github.com/Shuriken933/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact&theme=dark)](https://github.com/Shuriken933/github-readme-stats)
 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ##
-![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=radical)
+![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=dark)
 
 <!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
