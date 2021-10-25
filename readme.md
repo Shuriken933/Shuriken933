@@ -9,11 +9,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933)](https://github.com/Shuriken933/github-readme-stats)
-
-![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&count_private=true)
-
-![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true)
 
 ![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=radical)
 
