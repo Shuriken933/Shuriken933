@@ -1,9 +1,9 @@
 ### Hi there, I'm Eros
 
-## I'm a web developer and computer engineering student 
+## I'm a Full Stack Developer
 - 💻 I'm focussed on web programming
 - 👨‍🎓 I'm studying at university (Roma Tre)
-- 🖼️ I'm programming a framework [Flexscape]
+- 🖼️ I'm programming a full stack project (Sprin Boot, Vue js)
 
 ## Connect with me
 [<img align="left" alt="shuriken93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,6 +13,10 @@
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
