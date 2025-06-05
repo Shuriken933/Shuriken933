@@ -1,59 +1,65 @@
-### Hi there, I'm Eros
+# 👋 Hi, I'm Eros
 
-## I'm a Full Stack Developer
-- 💻 I'm focussed on web programming
-- 👨‍🎓 I'm studying at university (Roma Tre)
-- 🖼️ I'm programming a full stack project (Sprin Boot, Vue js)
+### 🎯 Full Stack Developer | Computer Engineering Student @ Roma Tre
 
-## Connect with me
-[<img align="left" alt="shuriken93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shuriken93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shuriken93 | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+I'm passionate about designing, building, and optimizing full stack applications. I develop modern web platforms using **Spring Boot** and **Vue.js**, focusing on clean architecture, best practices, and user-centered design.
 
-<br />
+---
 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+## 🛠️ Tech Stack
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+### 👨‍💻 Backend
+- **Java** with **Spring Boot**
+- RESTful APIs & Authentication (OAuth2, JWT)
+- PostgreSQL & MySQL
+- Maven & Lombok
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+### 🎨 Frontend
+- **Vue.js 3** (with Composition API)
+- **Nuxt** (with Tailwind CSS & Nuxt UI)
+- GSAP & Scroll-based animations
+- Component testing via Storybook
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### 🗃️ Tools & Ecosystem
+- Git & GitHub
+- IntelliJ IDEA Ultimate
+- Railway (Hosting)
+- WordPress (Theme development)
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+---
 
-<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+## 📚 Currently Studying
+- Computer Engineering @ **Roma Tre University**
+- UX Design, Personal Finance & Project Planning for Pro Loco activities
+- Building **Chameleus**, a modular management platform for local communities
 
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+---
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+## 🌐 Find Me Online
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]  
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)][dribbble]
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+---
 
+## 📊 GitHub Stats
 
-
-<br />
-
-##
+![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuriken933&layout=compact&theme=dark)](https://github.com/Shuriken933/github-readme-stats)
 
+---
+
+## 💡 Highlight Project
+
+### 🚀 [Chameleus – A modular management platform for local organizations](https://github.com/Shuriken933/flexscape)
+Built with **Spring Boot** + **Nuxt**, Chameleus offers scalable tools for Pro Loco and similar organizations to manage activities, users, and communication with a professional touch.
+
+---
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-###
-![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuriken933&show_icons=true&theme=dark)
-
-<!-- ### Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-[Flexscape]: https://github.com/Shuriken933/flexscape
-[instagram]: https://instagram.com/agonar_design/
 [linkedin]: https://linkedin.com/in/eros-agostini-400542b5/
+[instagram]: https://instagram.com/agonar_design/
 [dribbble]: https://dribbble.com/shuriken93
