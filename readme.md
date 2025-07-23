@@ -38,8 +38,8 @@ I'm passionate about designing, building, and optimizing full stack applications
 ## 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]  
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)][dribbble]
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]  
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)][dribbble] -->
 
 ---
 
@@ -60,6 +60,6 @@ Built with **Spring Boot** + **Nuxt**, Chameleus offers scalable tools for Pro L
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[linkedin]: https://linkedin.com/in/eros-agostini-400542b5/
+[linkedin]: https://linkedin.com/in/eros-agostini
 [instagram]: https://instagram.com/agonar_design/
 [dribbble]: https://dribbble.com/shuriken93
