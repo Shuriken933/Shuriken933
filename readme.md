@@ -52,7 +52,7 @@ I'm passionate about designing, building, and optimizing full stack applications
 
 ## 💡 Highlight Project
 
-### 🚀 [Chameleus – A modular management platform for local organizations](https://github.com/Shuriken933/flexscape)
+### 🚀 [Chameleus – A modular management platform for local organizations]
 Built with **Spring Boot** + **Nuxt**, Chameleus offers scalable tools for Pro Loco and similar organizations to manage activities, users, and communication with a professional touch.
 
 ---
