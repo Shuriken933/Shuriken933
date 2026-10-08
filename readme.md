@@ -41,10 +41,6 @@ I’m at the beginning of this journey, focusing on:
 * working with **APIs and services that expose spatial data**
 * learning how maps and data layers integrate into applications
 
-Goal:
-👉 move from “developer who builds apps” to
-👉 **engineer who models real-world systems through software**
-
 ---
 
 ## 📚 What I'm Focusing On Now
